@@ -1,6 +1,6 @@
-//B ¶ó´Â »ç¿ëÀÚ°¡ Å×½ºÆ®ÇÒ Å¬·¡½º »ı¼º
 public class BTest {
 	public static void main(String[] args) {
-		System.out.println("BTest Ã¹¹øÂ° Ä¿¹Ô~~");
+		System.out.println("BTest ì²«ë²ˆì§¸ ì»¤ë°‹~~");
+		System.out.println("BTest ë‘ë²ˆì¨° ì»¤ë°‹ : Aì‚¬ìš©ì~~");
 	}
 }
